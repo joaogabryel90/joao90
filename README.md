@@ -2,7 +2,7 @@
 
 - meu nome é joão gabryel 
 
- - estou estudando na [Alura] (httlps://ww.alura.com.br)
+ - estou estudando na [Alura] (httlps://www.alura.com.br)
 
  - estou me desenvolvendo na linguagem javascript
  - uso esse espaço para compartilhar meus projetos
